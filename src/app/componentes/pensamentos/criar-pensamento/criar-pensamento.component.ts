@@ -22,11 +22,9 @@ export class CriarPensamentoComponent implements OnInit{
 
 
   public criarPensamento(){
-    alert(`Criou o pensamento`);
   }
 
   public cancelaCriacao(){
-    alert("Cancelado");
   }
 
 }

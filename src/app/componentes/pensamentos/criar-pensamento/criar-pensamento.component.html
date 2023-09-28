@@ -11,7 +11,7 @@
         [(ngModel)]="pensamento.conteudo"
         >
         <label for="Autoria">Autoria ou fonte</label>
-        <input 
+        <input
         type="text"
         class="input"
         id="Autoria"
@@ -89,7 +89,7 @@
         </div>
             <div class="acoes">
                 <button (click)="criarPensamento()" class="botao">Salvar</button>
-                <button (click)="cancelaCriacao()" class="botao">Cancelar</button>
+                <button (click)="cancelaCriacao()" routerLink="/listarPensamento" class="botao">Cancelar</button>
             </div>
     </form>
 
