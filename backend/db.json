@@ -1,28 +1,3 @@
 {
-  "pensamentos": [
-    {
-      "id": 1,
-      "conteudo": "que bom que vc veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "angular",
-      "autoria": "Nay",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "oi henrique ",
-      "autoria": "vinicius",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 4,
-      "conteudo": "qqqq",
-      "autoria": "qqqqq",
-      "modelo": "modelo2"
-    }
-  ]
+  "pensamentos": []
 }

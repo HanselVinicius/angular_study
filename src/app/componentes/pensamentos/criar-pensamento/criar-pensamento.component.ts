@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PensamentoService } from '../../pesamentos/pensamento.service';
+import { PensamentoService } from '../services/pensamento.service';
 import { Pensamento } from '../pensamento';
 import {  Router } from '@angular/router';
 

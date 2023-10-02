@@ -1,5 +1,5 @@
 import { Pensamento } from '../pensamento';
-import { PensamentoService } from './../../pesamentos/pensamento.service';
+import { PensamentoService } from '../services/pensamento.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
